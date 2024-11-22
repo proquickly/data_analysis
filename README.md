@@ -1,6 +1,6 @@
-#TMDB assignment
+# TMDB assignment
 
-
+See https://www.themoviedb.org/settings/api
 
 What are all times highest and lowest profit movie?
 
